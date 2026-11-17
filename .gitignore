@@ -1,0 +1,42 @@
+# Local data, indexes, caches, and uploads (never commit these).
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+indexes/*
+!indexes/.gitkeep
+uploads/*
+!uploads/.gitkeep
+.cache/
+hf_cache/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Tooling / OS
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Model weight dumps and local logs
+*.bin
+*.pt
+*.onnx
+logs/

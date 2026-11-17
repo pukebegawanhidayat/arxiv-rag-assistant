@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "q-0912.1822",
+    "query": "For pruning or grouping rules, several techniques are used such as rule structure cover methods, informative cover methods, rule clustering, etc.",
+    "gold_arxiv_id": "0912.1822",
+    "title": "Association Rule Pruning based on Interestingness Measures with Clustering",
+    "year": 2009,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-1211.3212",
+    "query": "(ii) No communication: Each site runs an independent copy : the regret is $O(\\sqrt{log(n)kT})$ and the communication is 0.",
+    "gold_arxiv_id": "1211.3212",
+    "title": "Distributed Non-Stochastic Experts",
+    "year": 2012,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-1407.0202",
+    "query": "Unlike SDCA, SAGA supports non-strongly convex problems directly, and is adaptive to any inherent strong convexity of the problem.",
+    "gold_arxiv_id": "1407.0202",
+    "title": "SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives",
+    "year": 2014,
+    "categories": [
+      "cs.LG",
+      "math.OC",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-1407.6166",
+    "query": "Firstly, the correspondence of \"invariant-polymorphism\" is generalized to (min,max) semirings.",
+    "gold_arxiv_id": "1407.6166",
+    "title": "M-best solutions for a class of fuzzy constraint satisfaction problems",
+    "year": 2014,
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "q-1507.02205",
+    "query": "Experimental work with discussion threads from six subreddits shows that the importance of different types of language features varies with the community of interest.",
+    "gold_arxiv_id": "1507.02205",
+    "title": "Talking to the crowd: What do people react to in online discussions?",
+    "year": 2015,
+    "categories": [
+      "cs.CL",
+      "cs.SI"
+    ]
+  },
+  {
+    "id": "q-1605.08512",
+    "query": "A second aim of this work is to make network fine- tuning retain the generalizability of the base network to unseen tasks.",
+    "gold_arxiv_id": "1605.08512",
+    "title": "SNN: Stacked Neural Networks",
+    "year": 2016,
+    "categories": [
+      "cs.CV",
+      "cs.LG",
+      "cs.NE"
+    ]
+  },
+  {
+    "id": "q-1708.00197",
+    "query": "Specifically, our Video Object Segmentation with Re-identification (VS-ReID) model includes a mask propagation module and a ReID module.",
+    "gold_arxiv_id": "1708.00197",
+    "title": "Video Object Segmentation with Re-identification",
+    "year": 2017,
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-1712.01572",
+    "query": "Moreover, numerical methods to compute empirical estimates of these embeddings are akin to data-driven methods for the approximation of transfer operators such as extended dynamic mode decomposition and its variants.",
+    "gold_arxiv_id": "1712.01572",
+    "title": "Eigendecompositions of Transfer Operators in Reproducing Kernel Hilbert Spaces",
+    "year": 2017,
+    "categories": [
+      "cs.LG",
+      "math.DS",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-1801.02476",
+    "query": "Two model training schemes, namely threshold-based and volume-based, are evaluated.",
+    "gold_arxiv_id": "1801.02476",
+    "title": "Semi-automated Annotation of Signal Events in Clinical EEG Data",
+    "year": 2018,
+    "categories": [
+      "cs.DB",
+      "cs.LG",
+      "eess.SP",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-1805.01174",
+    "query": "This method uses both machine learning techniques (artificial neural networks) and more standard simulators based on physical laws.",
+    "gold_arxiv_id": "1805.01174",
+    "title": "Optimization of computational budget for power system risk assessment",
+    "year": 2018,
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-1809.08895",
+    "query": "Using phoneme sequences as input, our Transformer TTS network generates mel spectrograms, followed by a WaveNet vocoder to output the final audio results.",
+    "gold_arxiv_id": "1809.08895",
+    "title": "Neural Speech Synthesis with Transformer Network",
+    "year": 2018,
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-1810.00771",
+    "query": "One of the most prominent probabilistic approaches is that of constellation Probabilistic Abstract Argumentation Frameworks from Li~et~al.",
+    "gold_arxiv_id": "1810.00771",
+    "title": "A Preliminary Report on Probabilistic Attack Normal Form for Constellation Semantics",
+    "year": 2018,
+    "categories": [
+      "cs.AI",
+      "cs.LO"
+    ]
+  },
+  {
+    "id": "q-1901.04276",
+    "query": "Particularly, modeling the variability in speech of different speakers, different styles or different emotions with few data remains challenging.",
+    "gold_arxiv_id": "1901.04276",
+    "title": "Exploring Transfer Learning for Low Resource Emotional TTS",
+    "year": 2019,
+    "categories": [
+      "cs.CL",
+      "cs.SD",
+      "eess.AS"
+    ]
+  },
+  {
+    "id": "q-1906.00028",
+    "query": "Our idea is based on theoretical result, which says that linear independence of weighted data (for gaussian weights) guarantees independence.",
+    "gold_arxiv_id": "1906.00028",
+    "title": "Independent Component Analysis based on multiple data-weighting",
+    "year": 2019,
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-1907.01705",
+    "query": "While industrial systems exist for training graph embeddings on large datasets, many of these distributed architectures are forced to partition copious amounts of data and model logic across many worker nodes.",
+    "gold_arxiv_id": "1907.01705",
+    "title": "Graph Embeddings at Scale",
+    "year": 2019,
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-1910.11997",
+    "query": "Unlike other methods, we train Mellotron using only read speech data without alignments between text and audio.",
+    "gold_arxiv_id": "1910.11997",
+    "title": "Mellotron: Multispeaker expressive voice synthesis by conditioning on rhythm, pitch and global style tokens",
+    "year": 2019,
+    "categories": [
+      "cs.LG",
+      "cs.SD",
+      "eess.AS"
+    ]
+  },
+  {
+    "id": "q-1912.00178",
+    "query": "To address the problem of teacher forcing, we propose a method to introduce an evaluation module to guide the distribution of the prediction.",
+    "gold_arxiv_id": "1912.00178",
+    "title": "Modeling Fluency and Faithfulness for Diverse Neural Machine Translation",
+    "year": 2019,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-1912.01156",
+    "query": "We apply an off-the-shelf neural language modeling library to the newly introduced task of unsupervised inflection generation in the nominal domain of three morphologically rich languages: Romanian, German, and Finnish.",
+    "gold_arxiv_id": "1912.01156",
+    "title": "Unsupervised Inflection Generation Using Neural Language Modeling",
+    "year": 2019,
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-1912.04211",
+    "query": "Because of its non-linear and combinatorial nature, no existing optimal power flow solver can yet tackle this problem.",
+    "gold_arxiv_id": "1912.04211",
+    "title": "Learning to run a power network challenge for training topology controllers",
+    "year": 2019,
+    "categories": [
+      "cs.LG",
+      "eess.SP",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-2002.02883",
+    "query": "We look at how six different artifact classes, and their location in an image, affect the performance of a RetinaNet based polyp detection model.",
+    "gold_arxiv_id": "2002.02883",
+    "title": "Understanding the effects of artifacts on automated polyp detection and incorporating that knowledge via learning without forgetting",
+    "year": 2020,
+    "categories": [
+      "cs.LG",
+      "eess.IV",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-2005.00466",
+    "query": "Moreover, requiring at most one line search over the regularization path, the calibration scheme is computationally more efficient than competing schemes that are based on resampling.",
+    "gold_arxiv_id": "2005.00466",
+    "title": "Thresholded Adaptive Validation: Tuning the Graphical Lasso for Graph Recovery",
+    "year": 2020,
+    "categories": [
+      "cs.LG",
+      "stat.ME",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-2006.14709",
+    "query": "We provide three strands of rigorous, analytical and numerical evidence corroborating this equivalence.",
+    "gold_arxiv_id": "2006.14709",
+    "title": "The Gaussian equivalence of generative models for learning with shallow neural networks",
+    "year": 2020,
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.stat-mech",
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-2011.05497",
+    "query": "GPU performance and efficiency of these recommendation models are largely affected by model architecture configurations such as dense and sparse features, MLP dimensions.",
+    "gold_arxiv_id": "2011.05497",
+    "title": "Understanding Training Efficiency of Deep Learning Recommendation Models at Scale",
+    "year": 2020,
+    "categories": [
+      "cs.AR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2101.11118",
+    "query": "Though these questions are generally relevant to all autonomous systems, we study them in the context of automated driving systems where, as study subjects, we use DNNs automating end-to-end controls of steering functions of self-driving vehicles.",
+    "gold_arxiv_id": "2101.11118",
+    "title": "Can Offline Testing of Deep Neural Networks Replace Their Online Testing?",
+    "year": 2021,
+    "categories": [
+      "cs.LG",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "q-2103.12607",
+    "query": "To overcome the scalability and generalization limitations of existing works, we propose ESCORT, the first Deep Neural Network (DNN)-based vulnerability detection framework for Ethereum smart contracts that support lightweight transfer learning on unseen security vulnerabilities, thus is extensible and generalizable.",
+    "gold_arxiv_id": "2103.12607",
+    "title": "ESCORT: Ethereum Smart COntRacTs Vulnerability Detection using Deep Neural Network and Transfer Learning",
+    "year": 2021,
+    "categories": [
+      "cs.CR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2106.08541",
+    "query": "To address this issue, we develop a method called LinkDist that distils self-knowledge from connected node pairs into a Multi-Layer Perceptron (MLP) without the need to aggregate messages.",
+    "gold_arxiv_id": "2106.08541",
+    "title": "Distilling Self-Knowledge From Contrastive Links to Classify Graph Nodes Without Passing Messages",
+    "year": 2021,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2108.05916",
+    "query": "The proposed model has three parts: (i) an embedding layer to deal with sparse categorical data, (ii) a Factorization Machine to efficiently learn pairwise interactions, and (iii) a DNN to implicitly model higher order interactions.",
+    "gold_arxiv_id": "2108.05916",
+    "title": "Alzheimer's Disease Diagnosis via Deep Factorization Machine Models",
+    "year": 2021,
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2109.07589",
+    "query": "To this end, we present CONTaiNER, a novel contrastive learning technique that optimizes the inter-token distribution distance for Few-Shot NER.",
+    "gold_arxiv_id": "2109.07589",
+    "title": "CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning",
+    "year": 2021,
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-2110.12588",
+    "query": "Given a trained model, QuantifyML translates it into a C program and feeds it to the CBMC model checker to produce a formula in Conjunctive Normal Form (CNF).",
+    "gold_arxiv_id": "2110.12588",
+    "title": "QuantifyML: How Good is my Machine Learning Model?",
+    "year": 2021,
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "q-2112.15421",
+    "query": "Unlike contemporary work on contrastive learning with deep clustering, CARL proposes to learn the set of general prototypes in an online fashion, using gradient descent without the necessity of using non-differentiable algorithms or K-Means to solve the cluster assignment problem.",
+    "gold_arxiv_id": "2112.15421",
+    "title": "Representation Learning via Consistent Assignment of Views to Clusters",
+    "year": 2021,
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2202.03237",
+    "query": "Furthermore we show that we can use this polytope to recover the whole Pareto frontier of the multi-objective fairness-utility optimization problem, using a simple geometrical procedure with complexity $O(n^2\\log(n))$.",
+    "gold_arxiv_id": "2202.03237",
+    "title": "Introducing the Expohedron for Efficient Pareto-optimal Fairness-Utility Amortizations in Repeated Rankings",
+    "year": 2022,
+    "categories": [
+      "cs.IR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2203.14154",
+    "query": "We train NUNet with Reynolds-Averaged Navier-Stokes (RANS) solutions from three different canonical flows, namely turbulent channel flow, flat plate, and flow around ellipses.",
+    "gold_arxiv_id": "2203.14154",
+    "title": "NUNet: Deep Learning for Non-Uniform Super-Resolution of Turbulent Flows",
+    "year": 2022,
+    "categories": [
+      "cs.LG",
+      "physics.comp-ph",
+      "physics.flu-dyn"
+    ]
+  },
+  {
+    "id": "q-2208.03879",
+    "query": "Secondly, a general artificial anomaly generation algorithm (GAAGA) is proposed to simulate anomalies that are as realistic and feature-rich as possible.",
+    "gold_arxiv_id": "2208.03879",
+    "title": "Clear Memory-Augmented Auto-Encoder for Surface Defect Detection",
+    "year": 2022,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "q-2301.03469",
+    "query": "Additionally, the field lacks a widely acceptable algorithm, with proposed approaches ranging from raw signal or feature thresholding to data-hungry classification models, many of which are unfamiliar to medical staff.",
+    "gold_arxiv_id": "2301.03469",
+    "title": "KIDS: kinematics-based (in)activity detection and segmentation in a sleep case study",
+    "year": 2023,
+    "categories": [
+      "cs.LG",
+      "eess.SP"
+    ]
+  },
+  {
+    "id": "q-2302.06953",
+    "query": "These mechanisms operate in real-time and do not require prior knowledge of demand distribution, which can be difficult to obtain in practice.",
+    "gold_arxiv_id": "2302.06953",
+    "title": "A Bandit Approach to Online Pricing for Heterogeneous Edge Resource Allocation",
+    "year": 2023,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2304.14535",
+    "query": "Moreover, there are situations where gathering real data is challenging, expensive, or rarely occurring, which can not meet the data requirements of DL models.",
+    "gold_arxiv_id": "2304.14535",
+    "title": "Deep Transfer Learning for Automatic Speech Recognition: Towards Better Generalization",
+    "year": 2023,
+    "categories": [
+      "cs.CL",
+      "cs.LG",
+      "cs.SD",
+      "eess.AS"
+    ]
+  },
+  {
+    "id": "q-2307.11782",
+    "query": "On this basis, we achieve the almost sure ergodic convergence rate of Adam, which is arbitrarily close to $o(1/\\sqrt{K})$.",
+    "gold_arxiv_id": "2307.11782",
+    "title": "Convergence of Adam for Non-convex Objectives: Relaxed Hyperparameters and Non-ergodic Case",
+    "year": 2023,
+    "categories": [
+      "cs.LG",
+      "cs.NA",
+      "math.NA",
+      "math.OC"
+    ]
+  },
+  {
+    "id": "q-2308.09301",
+    "query": "REMAP is guaranteed to correctly infer the minimal automaton with polynomial query complexity under exact equivalence queries, and achieves PAC-identification ($\\varepsilon$-approximate, with high probability) of the minimal automaton using sampling-based equivalence queries.",
+    "gold_arxiv_id": "2308.09301",
+    "title": "Automata Learning from Preference and Equivalence Queries",
+    "year": 2023,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2308.12982",
+    "query": "As a result, we have compiled a comprehensive list of these factors that should be considered during the tool selection process.",
+    "gold_arxiv_id": "2308.12982",
+    "title": "A Survey of AI Music Generation Tools and Models",
+    "year": 2023,
+    "categories": [
+      "cs.AI",
+      "cs.HC",
+      "cs.SD",
+      "eess.AS"
+    ]
+  },
+  {
+    "id": "q-2309.00126",
+    "query": "The results powerfully demonstrate the superior performance of QS-TTS, winning the highest MOS over supervised or semi-supervised baseline TTS approaches, especially in low-resource scenarios.",
+    "gold_arxiv_id": "2309.00126",
+    "title": "QS-TTS: Towards Semi-Supervised Text-to-Speech Synthesis via Vector-Quantized Self-Supervised Speech Representation Learning",
+    "year": 2023,
+    "categories": [
+      "cs.CL",
+      "cs.SD",
+      "eess.AS"
+    ]
+  },
+  {
+    "id": "q-2312.00886",
+    "query": "Our approach entails the initial learning of a preference model, which is conditioned on two inputs given a prompt, followed by the pursuit of a policy that consistently generates responses preferred over those generated by any competing policy, thus defining the Nash equilibrium of this preference model.",
+    "gold_arxiv_id": "2312.00886",
+    "title": "Nash Learning from Human Feedback",
+    "year": 2023,
+    "categories": [
+      "cs.AI",
+      "cs.GT",
+      "cs.LG",
+      "cs.MA",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-2312.17397",
+    "query": "CF guidance is convenient given its less stringent assumptions and since it does not require to train an auxiliary property regressor, thus halving the number of trainable parameters in the model.",
+    "gold_arxiv_id": "2312.17397",
+    "title": "Classifier-free graph diffusion for molecular property targeting",
+    "year": 2023,
+    "categories": [
+      "cs.LG",
+      "q-bio.BM"
+    ]
+  },
+  {
+    "id": "q-2402.17698",
+    "query": "The numerical results show the ability of the reduced-order models constructed with operator inference to provide a reduced yet accurate surrogate solution.",
+    "gold_arxiv_id": "2402.17698",
+    "title": "Learning reduced-order Quadratic-Linear models in Process Engineering using Operator Inference",
+    "year": 2024,
+    "categories": [
+      "cs.LG",
+      "cs.NA",
+      "math.NA"
+    ]
+  },
+  {
+    "id": "q-2404.05043",
+    "query": "Importantly, even if analysts or adversaries possess auxiliary datasets containing raw data, they are unable to accurately deduce private features.",
+    "gold_arxiv_id": "2404.05043",
+    "title": "Optimizing Privacy and Utility Tradeoffs for Group Interests Through Harmonization",
+    "year": 2024,
+    "categories": [
+      "cs.CR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2404.05600",
+    "query": "SpeechAlign involves constructing a preference codec dataset contrasting golden codec tokens against synthetic tokens, followed by preference optimization to improve the codec language model.",
+    "gold_arxiv_id": "2404.05600",
+    "title": "SpeechAlign: Aligning Speech Generation to Human Preferences",
+    "year": 2024,
+    "categories": [
+      "cs.CL",
+      "cs.SD",
+      "eess.AS"
+    ]
+  },
+  {
+    "id": "q-2406.10285",
+    "query": "However, such methods still have limitations in generalization, robustness and efficiency.",
+    "gold_arxiv_id": "2406.10285",
+    "title": "I Don't Know You, But I Can Catch You: Real-Time Defense against Diverse Adversarial Patches for Object Detectors",
+    "year": 2024,
+    "categories": [
+      "cs.AI",
+      "cs.CR"
+    ]
+  },
+  {
+    "id": "q-2406.12259",
+    "query": "Utilizing real-world patient data, we demonstrate that both open-source and proprietary LLMs are susceptible to manipulation across multiple tasks.",
+    "gold_arxiv_id": "2406.12259",
+    "title": "Adversarial Attacks on Large Language Models in Medicine",
+    "year": 2024,
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "q-2406.14753",
+    "query": "We establish various theoretical properties of our approach, such as convergence and optimality of our analog of the Bellman operator and Q-learning, a new control-policy-variable gradient theorem, and a specific gradient ascent algorithm based on this theorem within the context of a specific control-theoretic framework.",
+    "gold_arxiv_id": "2406.14753",
+    "title": "A General Control-Theoretic Approach for Reinforcement Learning: Theory and Algorithms",
+    "year": 2024,
+    "categories": [
+      "cs.LG",
+      "stat.ME"
+    ]
+  },
+  {
+    "id": "q-2406.18907",
+    "query": "We find that while quantitative metrics prefer statistical models, qualitative evaluation finds better insights from the neural model.",
+    "gold_arxiv_id": "2406.18907",
+    "title": "Historia Magistra Vitae: Dynamic Topic Modeling of Roman Literature using Neural Embeddings",
+    "year": 2024,
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-2407.02243",
+    "query": "The RIO framework, comprising sampling, automatic annotating, and learning, obviates the need for a reward model or pairwise preference data, and significantly improves the stability of zero-shot TTS performance by reducing the discrepancies between training and inference conditions.",
+    "gold_arxiv_id": "2407.02243",
+    "title": "Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization",
+    "year": 2024,
+    "categories": [
+      "cs.CL",
+      "cs.SD",
+      "eess.AS"
+    ]
+  },
+  {
+    "id": "q-2407.03380",
+    "query": "By employing Contrastive Language-Image Pre-training (CLIP), Multi-Peptide aligns embeddings from both modalities into a shared latent space, thereby enhancing the model's predictive accuracy.",
+    "gold_arxiv_id": "2407.03380",
+    "title": "Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties",
+    "year": 2024,
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "q-bio.QM"
+    ]
+  },
+  {
+    "id": "q-2407.16160",
+    "query": "However, how to design a universally applicable LLMs-based MEL approach remains a pressing challenge.",
+    "gold_arxiv_id": "2407.16160",
+    "title": "UniMEL: A Unified Framework for Multimodal Entity Linking with Large Language Models",
+    "year": 2024,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-2408.04808",
+    "query": "To formulate the computation and communication patterns of tensor operators in this new architecture, T10 introduces a distributed tensor abstraction rTensor.",
+    "gold_arxiv_id": "2408.04808",
+    "title": "Scaling Deep Learning Computation over the Inter-Core Connected Intelligence Processor with T10",
+    "year": 2024,
+    "categories": [
+      "cs.DC",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2409.16554",
+    "query": "There is a significant need for specialised pretext tasks designed for the characteristics of irregular time series to enhance model performance and robustness, especially in scenarios with limited data availability.",
+    "gold_arxiv_id": "2409.16554",
+    "title": "EMIT- Event-Based Masked Auto Encoding for Irregular Time Series",
+    "year": 2024,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2411.02654",
+    "query": "We discuss utilitarian and egalitarian welfare objectives, and we explore how to optimize for them under stochastic and robust paradigms.",
+    "gold_arxiv_id": "2411.02654",
+    "title": "Fair and Welfare-Efficient Constrained Multi-matchings under Uncertainty",
+    "year": 2024,
+    "categories": [
+      "cs.GT",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2412.17054",
+    "query": "In our work, we propose a differentially private random block coordinate descent method that selects multiple coordinates with varying probabilities in each iteration using sketch matrices.",
+    "gold_arxiv_id": "2412.17054",
+    "title": "Differentially Private Random Block Coordinate Descent",
+    "year": 2024,
+    "categories": [
+      "cs.CR",
+      "cs.LG",
+      "math.OC",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-2501.05787",
+    "query": "Utilizing a hierarchical setup for its decoder, new speech tokens are processed at a rate of only 12 Hz, enabling efficient modelling of long-form text while retaining reconstruction quality.",
+    "gold_arxiv_id": "2501.05787",
+    "title": "MARS6: A Small and Robust Hierarchical-Codec Text-to-Speech Model",
+    "year": 2025,
+    "categories": [
+      "cs.CL",
+      "eess.AS"
+    ]
+  },
+  {
+    "id": "q-2501.08305",
+    "query": "These variants are developed and evaluated with a standardized data pipeline and training/validation/testing strategy on 26 widely-used suspensor MTSC datasets.",
+    "gold_arxiv_id": "2501.08305",
+    "title": "Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification",
+    "year": 2025,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2501.09893",
+    "query": "The resulting discrete representation allows these auxiliary KCs to be utilized in training any KT model that incorporates KCs.",
+    "gold_arxiv_id": "2501.09893",
+    "title": "Sparse Binary Representation Learning for Knowledge Tracing",
+    "year": 2025,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2502.12462",
+    "query": "We evaluate our approach on selected tasks from BABILong, which interleaves standard bAbI QA problems with large amounts of distractor text.",
+    "gold_arxiv_id": "2502.12462",
+    "title": "Emulating Retrieval Augmented Generation via Prompt Engineering for Enhanced Long Context Comprehension in LLMs",
+    "year": 2025,
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-2503.00578",
+    "query": "The over-smoothing degrades GNN's performance due to the increased similarity between the representations of unrelated nodes.",
+    "gold_arxiv_id": "2503.00578",
+    "title": "Channel-Attentive Graph Neural Networks",
+    "year": 2025,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2503.16797",
+    "query": "Additionally, we analyze the asymptotic error for general NeSy tasks, showing that the expected error scales with the disagreement among solutions.",
+    "gold_arxiv_id": "2503.16797",
+    "title": "A Learnability Analysis on Neuro-Symbolic Learning",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2504.17114",
+    "query": "Using high-resolution CT segmentations of the liver, lungs, kidneys, and bladder, we incorporate organ-specific blood supply sources to improve kinetic modelling.",
+    "gold_arxiv_id": "2504.17114",
+    "title": "Anatomy-constrained modelling of image-derived input functions in dynamic PET using multi-organ segmentation",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "eess.IV",
+      "physics.med-ph"
+    ]
+  },
+  {
+    "id": "q-2504.20741",
+    "query": "We argue that even if post-hoc explanations do not replicate the exact reasoning processes of black box systems, they can still improve users' functional understanding of black box systems, increase the accuracy of clinician-AI teams, and assist clinicians in justifying their AI-informed decisions.",
+    "gold_arxiv_id": "2504.20741",
+    "title": "In defence of post-hoc explanations in medical AI",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CY",
+      "cs.HC",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2506.03145",
+    "query": "We analyze the semantic relevance of neuroscience text segments identified by LLM for building the knowledge graph.",
+    "gold_arxiv_id": "2506.03145",
+    "title": "Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-2507.02822",
+    "query": "Experimental results on several medical datasets demonstrate that SynapseRoute not only improves overall accuracy (0.8390 vs.",
+    "gold_arxiv_id": "2507.02822",
+    "title": "SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2507.15532",
+    "query": "In many applications, additional information in the form of parametric dependencies between distributions in the transition dynamics is available.",
+    "gold_arxiv_id": "2507.15532",
+    "title": "Data-Efficient Safe Policy Improvement Using Parametric Structure",
+    "year": 2025,
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "q-2507.23330",
+    "query": "Then, we offer 12 distinct arguments and 6 counterarguments with rebuttals to the counterarguments.",
+    "gold_arxiv_id": "2507.23330",
+    "title": "AI Must not be Fully Autonomous",
+    "year": 2025,
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "q-2509.01371",
+    "query": "To address this problem, Uirapuru incorporates a comprehensive understanding of camera actuation into the system design paired with fast adaptive tiling at a per-frame level.",
+    "gold_arxiv_id": "2509.01371",
+    "title": "Uirapuru: Timely Video Analytics for High-Resolution Steerable Cameras on Edge Devices",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "q-2509.11731",
+    "query": "By integrating global semantic context with local geometric features, DGMap improves keypoint detection accuracy to reduce road fragmentation in sparse-trajectory areas.",
+    "gold_arxiv_id": "2509.11731",
+    "title": "Bridging the Gap Between Sparsity and Redundancy: A Dual-Decoding Framework with Global Context for Map Inference",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "q-2510.06938",
+    "query": "Supported by quantum signal processing principles, the quantum component efficiently represents high-order polynomial interactions across modalities with linear parameter scaling, and we provide a separation example between QFL and low-rank tensor-based methods that highlights potential quantum query advantages.",
+    "gold_arxiv_id": "2510.06938",
+    "title": "Expressive and Scalable Quantum Fusion for Multimodal Learning",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "quant-ph"
+    ]
+  },
+  {
+    "id": "q-2510.18999",
+    "query": "Neural network methods have demonstrated high-fidelity differentiable SDF reconstruction but they tend to be less efficient, experience catastrophic forgetting and memory limitations in large environments, and are often restricted to truncated SDF.",
+    "gold_arxiv_id": "2510.18999",
+    "title": "OREN: Octree Residual Network for Real-Time Euclidean Signed Distance Mapping",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "q-2511.14291",
+    "query": "After the initial point cloud is created by lifting the RGBD image, Gen3d maintains and expands its world model.",
+    "gold_arxiv_id": "2511.14291",
+    "title": "GEN3D: Generating Domain-Free 3D Scenes from a Single Image",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "q-2512.10793",
+    "query": "Furthermore, we propose LabelFusion, a hybrid architecture that combines the output of a prompt-engineered LLM with contextual embeddings produced by a fine-tuned RoBERTa encoder through a lightweight Multilayer Perceptron (MLP) voting layer.",
+    "gold_arxiv_id": "2512.10793",
+    "title": "LabelFusion: Fusing Large Language Models with Transformer Encoders for Robust Financial News Classification",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-2601.04216",
+    "query": "At the coding level, we introduce a multi algorithm review aggregation revision workflow that runs rule based encoders, statistical or machine learning evaluators, and large model evaluators with diverse prompt configurations as parallel coders.",
+    "gold_arxiv_id": "2601.04216",
+    "title": "Computable Gap Assessment of Artificial Intelligence Governance in Children's Centres: Evidence-Mechanism-Governance-Indicator Modelling of UNICEF's Guidance on AI and Children 3.0 Based on the Graph-GAP Framework",
+    "year": 2025,
+    "categories": [
+      "cs.AI",
+      "cs.CY"
+    ]
+  },
+  {
+    "id": "q-2601.06116",
+    "query": "We illustrate our approach with an experiment that surfaces gender bias in an LLM (Claude 3.5 Haiku) on an open-ended story prompt.",
+    "gold_arxiv_id": "2601.06116",
+    "title": "The Homogenization Problem in LLMs: Towards Meaningful Diversity in AI Safety",
+    "year": 2026,
+    "categories": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CY"
+    ]
+  },
+  {
+    "id": "q-2601.11144",
+    "query": "A beam search-optimized dynamic re-ranking module guides this process, continuously filtering candidates to balance efficiency and global comprehensiveness.",
+    "gold_arxiv_id": "2601.11144",
+    "title": "Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration",
+    "year": 2026,
+    "categories": [
+      "cs.AI",
+      "cs.IR"
+    ]
+  },
+  {
+    "id": "q-2601.14255",
+    "query": "Building on this capability, we develop a scalable pseudo-labeling pipeline for large-scale video matting and construct the Matting Anything in Video (MA-V) dataset, which offers high-quality matting annotations for more than 50K real-world videos spanning diverse scenes and motions.",
+    "gold_arxiv_id": "2601.14255",
+    "title": "VideoMaMa: Mask-Guided Video Matting via Generative Prior",
+    "year": 2026,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "q-2602.10392",
+    "query": "In our experiments, we are able to rediscover physical phenomena via the tensor factors, indicating that our predictions are aligned with the physics of the problem.",
+    "gold_arxiv_id": "2602.10392",
+    "title": "Tensor Methods: A Unified and Interpretable Approach for Material Design",
+    "year": 2026,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2603.02337",
+    "query": "We then extend the analysis to Gaussian mixtures, showing that multimodality does not average away this effect; instead, the slowest and worst-conditioned component can control optimization.",
+    "gold_arxiv_id": "2603.02337",
+    "title": "Preconditioned Flow Matching",
+    "year": 2026,
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2604.00130",
+    "query": "This decomposition enables LLMs to better manage long reasoning horizons and maintain logical coherence.",
+    "gold_arxiv_id": "2604.00130",
+    "title": "Hierarchical Chain-of-Thought: Enhancing LLM Reasoning Performance and Efficiency",
+    "year": 2026,
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-2604.07404",
+    "query": "In symmetric binary Gaussian mixtures, the criterion recovers the critical diffusion time detected by the midpoint derivative of the score and agrees with the spectral criterion of Biroli, Bonnaire, de~Bortoli, and M\\'ezard (2024).",
+    "gold_arxiv_id": "2604.07404",
+    "title": "Score Shocks: The Burgers Equation Structure of Diffusion Generative Models",
+    "year": 2026,
+    "categories": [
+      "cond-mat.stat-mech",
+      "cs.LG",
+      "math.AP",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-2605.02014",
+    "query": "This framework enables model comparison by quantifying the alignment between the conditional distribution of a candidate model and the true data generating process.",
+    "gold_arxiv_id": "2605.02014",
+    "title": "MIRA: A Score for Conditional Distribution Accuracy and Model Comparison",
+    "year": 2026,
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "q-2605.05530",
+    "query": "First, since the Lyapunov certificate is asymptotic, we derive a finite step stopping criterion for Langevin sampling and prove that no Lyapunov certificate exists for the deterministic gradient flow on the same energy landscape.",
+    "gold_arxiv_id": "2605.05530",
+    "title": "Energy Generative Modeling: A Lyapunov-based Energy Matching Perspective",
+    "year": 2026,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2605.16392",
+    "query": "MIST clusters gene expression profiles into cross-modal prototypes, anchors them in the frozen foundation model feature space, and uses them to reorganize H&E patch features along molecularly guided axes.",
+    "gold_arxiv_id": "2605.16392",
+    "title": "Bridging the Modality Bottleneck in Pathology MIL through Molecularly Guided Feature Adaptation",
+    "year": 2026,
+    "categories": [
+      "cs.CV",
+      "cs.LG",
+      "q-bio.QM"
+    ]
+  },
+  {
+    "id": "q-2605.27927",
+    "query": "To address these limitations, we propose Structure-Induced Guided Neutralization (SIGN), a lightweight, plug-and-play defense framework that improves LVLM compatibility via Prior Structural Extraction and achieves efficient perturbation suppression via Dynamic Guided Neutralization.",
+    "gold_arxiv_id": "2605.27927",
+    "title": "Structure-Guided Visual Perturbation Neutralization for LVLMs",
+    "year": 2026,
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2606.04345",
+    "query": "The proposed approach achieves approximately 12% improvement in mAP@50 while enhancing overall detection accuracy and robustness.",
+    "gold_arxiv_id": "2606.04345",
+    "title": "HYolo: An Intelligent IoT-Based Object Detection System Using Hypergraph Learning",
+    "year": 2026,
+    "categories": [
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2606.04656",
+    "query": "Because instance-level uncertainty is needed, linearized inference methods that require multiple backpropagations are not time-efficient, and sampling-based methods are not fully post hoc.",
+    "gold_arxiv_id": "2606.04656",
+    "title": "Instance-Level Post Hoc Uncertainty Quantification in Object Detection",
+    "year": 2026,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "q-2606.09204",
+    "query": "A contrasting result across the GPT models tested, where the same injection instead increases recommendations, suggests model-family differences in how injection-like context affects recommendation behavior.",
+    "gold_arxiv_id": "2606.09204",
+    "title": "The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection",
+    "year": 2026,
+    "categories": [
+      "cs.CL",
+      "cs.CR",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2606.26879",
+    "query": "Additional mechanisms, including LLM-based validation and augmentation steps, are used to improve faithfulness, realism, and diversity of the generated notes.",
+    "gold_arxiv_id": "2606.26879",
+    "title": "A Pipeline for Generating Longitudinal Synthetic Clinical Notes Using Large Language Models",
+    "year": 2026,
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "q-2607.22408",
+    "query": "LunarFM assimilates observations from six instruments across three lunar missions, mapping 18 input channels to a shared embedding space.",
+    "gold_arxiv_id": "2607.22408",
+    "title": "LunarFM: A Shared Multimodal Representation of the Moon's Surface",
+    "year": 2026,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2608.11829",
+    "query": "However, do such improvements extend across the entire range of test-time sampling budgets?",
+    "gold_arxiv_id": "2608.11829",
+    "title": "Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling",
+    "year": 2026,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2608.15535",
+    "query": "We evaluate six LLMs under three protocols: LLM-as-a-judge and two deterministic lexical criteria, exact-substring and word-overlap matching.",
+    "gold_arxiv_id": "2608.15535",
+    "title": "L3Cube-IndicQuest v2: A Large-Scale Multilingual Benchmark for Evaluating Factual Knowledge of Large Language Models Across Indic Languages",
+    "year": 2026,
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2608.23812",
+    "query": "Conditioning rubrics on retrieved evidence improves factual support, while decomposing rubrics into quality-specific dimensions further improves coherence, organization, and adherence to query requirements.",
+    "gold_arxiv_id": "2608.23812",
+    "title": "From Preferences to Principles: Rubric-Based Alignment for Grounded Knowledge Answers",
+    "year": 2026,
+    "categories": [
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "q-2609.15393",
+    "query": "To learn this code generation process reliably without real code annotations, CodeTS constructs aligned Text-Code-TS triplets from structured temporal attributes for supervised initialization.",
+    "gold_arxiv_id": "2609.15393",
+    "title": "CodeTS: Verifiable Text-to-Time Series Generation via Executable Code",
+    "year": 2026,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2609.15820",
+    "query": "An autonomous agent dynamically inspects, diagnoses, and edits code based on runtime feedback.",
+    "gold_arxiv_id": "2609.15820",
+    "title": "AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery",
+    "year": 2026,
+    "categories": [
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "q-2610.04931",
+    "query": "Our solution pairs a multi-stage candidate generation pipeline with a low-latency serving infrastructure.",
+    "gold_arxiv_id": "2610.04931",
+    "title": "Billion-Scale Thumbnail Optimization for Uncurated Short-Form Videos via Multi-Armed Bandits",
+    "year": 2026,
+    "categories": [
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2610.30456",
+    "query": "The package also stores, for every measure, the structural properties that decide which identities apply to it, can infer those properties from a user-supplied formula, and uses them to warn when a measure is used where it does not behave as commonly assumed.",
+    "gold_arxiv_id": "2610.30456",
+    "title": "aggmetrics: Aggregating Classification Performance Measures for Machine Learning",
+    "year": 2026,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "q-2610.32996",
+    "query": "Stage 3 used BiomedCLIP ViT-B/16 embeddings and a fine-tuned multilayer perceptron for rash classification on MSLD v2.0 (755 images, 6 classes).",
+    "gold_arxiv_id": "2610.32996",
+    "title": "A Multimodal Machine Learning Framework Integrating Genomic, Epidemiological, Environmental, and Clinical Imaging Data for Accelerated Measles Detection and Transmission Inference",
+    "year": 2026,
+    "categories": [
+      "cs.ET",
+      "cs.LG",
+      "q-bio.QM"
+    ]
+  },
+  {
+    "id": "q-cs/0411099",
+    "query": "The logarithmic dependence on the sample count in the enumerator of the PAC Bayesian bound is halved.",
+    "gold_arxiv_id": "cs/0411099",
+    "title": "A Note on the PAC Bayesian Theorem",
+    "year": 2004,
+    "categories": [
+      "cs.AI",
+      "cs.LG"
+    ]
+  }
+]

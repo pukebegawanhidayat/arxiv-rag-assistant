@@ -1,0 +1,42 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+
+  api:
+    build: .
+    depends_on:
+      ollama:
+        condition: service_started
+    environment:
+      OLLAMA_BASE_URL: http://ollama:11434
+      ARXIV_RAG_ROOT: /app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./indexes:/app/indexes
+      - ./uploads:/app/uploads
+      - ./configs:/app/configs
+    command: ["uvicorn", "arxiv_rag.api:app", "--host", "0.0.0.0", "--port", "8000"]
+
+  ui:
+    build: .
+    depends_on:
+      - api
+    environment:
+      API_URL: http://api:8000
+    ports:
+      - "8501:8501"
+    command: ["streamlit", "run", "app/streamlit_app.py", "--server.address", "0.0.0.0", "--server.port", "8501"]
+
+volumes:
+  ollama_data:

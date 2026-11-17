@@ -1,0 +1,84 @@
+# Domain-Specific RAG Assistant for AI/ML & NLP arXiv papers
+# All paths are relative to the project root unless absolute.
+
+data:
+  kaggle_dataset: "Cornell-University/arxiv"
+  raw_filename: "arxiv-metadata-oai-snapshot.json"
+  raw_dir: "data/raw"
+  processed_path: "data/processed/papers.jsonl"
+  # arXiv category codes to keep (space-separated labels on each paper).
+  categories:
+    - "cs.AI"
+    - "cs.CL"
+    - "cs.LG"
+  # Reservoir-sample this many matching papers for local indexing (null = all).
+  sample_size: 10000
+  random_seed: 42
+  # Optional year bounds applied at ingest time (null = no bound).
+  min_year: null
+  max_year: null
+
+chunking:
+  # Fields concatenated into each paper's source text.
+  source_fields:
+    - title
+    - abstract
+  # Maximum characters per chunk. Typical arXiv abstracts fit in one chunk.
+  max_chars: 1600
+  overlap_chars: 200
+
+embedding:
+  model_name: "BAAI/bge-small-en-v1.5"
+  batch_size: 64
+  normalize: true
+  device: "cpu"
+  # Hugging Face cache (kept out of git).
+  cache_dir: ".cache/huggingface"
+  # Official BGE v1.5 query instruction for short-query / passage retrieval.
+  query_prefix: "Represent this sentence for searching relevant passages: "
+
+index:
+  index_dir: "indexes"
+  # "flat_ip" is exact cosine search when vectors are L2-normalised.
+  faiss_index_type: "flat_ip"
+
+retrieval:
+  bm25_k: 50
+  dense_k: 50
+  # Reciprocal Rank Fusion constant (standard default is 60).
+  rrf_k: 60
+  # Candidates passed to the cross-encoder after fusion.
+  rerank_top_n: 20
+  # Chunks placed in the LLM context window.
+  final_k: 5
+  reranker_model: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  # Skip generation and refuse if the best reranked score is below this.
+  # Cross-encoder scores are unbounded; tune if you change the model.
+  min_rerank_score: -2.0
+
+llm:
+  base_url: "http://localhost:11434"
+  # Default (fits 16 GB RAM): ollama pull llama3.1:8b
+  # Documented alternative: ollama pull qwen2.5:7b
+  # Override with OLLAMA_MODEL or this field.
+  model: "llama3.1:8b"
+  temperature: 0.1
+  max_tokens: 800
+  timeout_seconds: 180
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+  cors_origins:
+    - "http://localhost:8501"
+    - "http://127.0.0.1:8501"
+  max_upload_mb: 20
+  uploads_dir: "uploads"
+
+eval:
+  n_questions: 100
+  ks: [1, 5, 10]
+  output_dir: "reports"
+  questions_path: "reports/eval_questions.json"
+  metrics_path: "reports/retrieval_metrics.json"
+  random_seed: 123

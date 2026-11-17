@@ -1,0 +1,42 @@
+{
+  "n_questions": 100,
+  "ks": [
+    1,
+    5,
+    10
+  ],
+  "methods": {
+    "bm25": {
+      "recall@1": 1.0,
+      "recall@5": 1.0,
+      "recall@10": 1.0,
+      "mrr": 1.0,
+      "found": 100,
+      "median_rank_found": 1.0
+    },
+    "dense": {
+      "recall@1": 0.62,
+      "recall@5": 0.74,
+      "recall@10": 0.78,
+      "mrr": 0.6729,
+      "found": 78,
+      "median_rank_found": 1.0
+    },
+    "hybrid": {
+      "recall@1": 0.79,
+      "recall@5": 0.97,
+      "recall@10": 1.0,
+      "mrr": 0.8627,
+      "found": 100,
+      "median_rank_found": 1.0
+    },
+    "hybrid+rerank": {
+      "recall@1": 0.97,
+      "recall@5": 1.0,
+      "recall@10": 1.0,
+      "mrr": 0.9833,
+      "found": 100,
+      "median_rank_found": 1.0
+    }
+  }
+}
